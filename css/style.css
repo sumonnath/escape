@@ -371,7 +371,7 @@ header {
 }
 
 .client_img_1 {
-	width: 230px;
+	width: 25%;
 	float: left;
 }
 
@@ -382,10 +382,10 @@ header {
 }
 
 .client_one_speech {
-	width: 510px;
+	width: 55%;
 	float: right;
 	background-color: #fff;
-	margin-right: 70px;
+	margin-right: 40px;
 	margin-top: 25px;
 	padding: 35px 40px;
 	position: relative;
@@ -425,7 +425,7 @@ header {
 }
 
 .client_two_speech {
-	width: 510px;
+	width: 55%;
 	float: left;
 	background-color: #fff;
 	margin-left: 40px;
@@ -460,7 +460,7 @@ header {
 }
 
 .client_img_2 {
-	width: 230px;
+	width: 25%;
 	float: right;
 }
 
@@ -565,6 +565,7 @@ header {
 	display: inline-block;
 	list-style: none;
 	margin-right: 10px;
+	cursor: pointer;
 }
 .social ul li i {
 	border: 2px solid #fff;
