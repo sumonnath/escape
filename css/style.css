@@ -565,6 +565,7 @@ header {
 	display: inline-block;
 	list-style: none;
 	margin-right: 10px;
+	cursor: pointer;
 }
 .social ul li i {
 	border: 2px solid #fff;
