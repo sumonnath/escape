@@ -526,9 +526,9 @@ header {
 }
 
 .single_team {
-	width: 32%;
+	width: 30%;
 	float: left;
-	margin-right: 15px;
+	margin-right: 25px;
 }
 
 .single_team:last-child {
