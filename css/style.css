@@ -148,7 +148,7 @@ header {
 }
 
 .development {
-	padding: 100px 0;
+	padding: 80px 0;
 	overflow: hidden;
 }
 
@@ -195,7 +195,7 @@ header {
 
 .branding_area {
 	background-color: #fafafa;
-	padding: 100px 0;
+	padding: 80px 0;
 }
 
 .branding {
@@ -245,7 +245,7 @@ header {
 
 /*services start*/
 .services {
-	padding: 100px 0;
+	padding: 80px 0;
 }
 
 .service_content {
@@ -330,7 +330,7 @@ header {
 /*clients area start*/
 
 .clients_area {
-	padding: 100px 0;
+	padding: 80px 0;
 	background-color: #fafafa;
 }
 
