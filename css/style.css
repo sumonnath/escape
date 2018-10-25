@@ -78,8 +78,7 @@ header {
 .menu ul li {
 	float: left;
     list-style: none;
-    margin-right: 50px;
-    
+    margin-right: 50px;    
 }
 
 .menu ul li:last-child {
