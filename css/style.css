@@ -144,11 +144,10 @@ header {
 /*development area start*/
 
 .development_area {
-	
+	padding: 80px 0;
 }
 
 .development {
-	padding: 80px 0;
 	overflow: hidden;
 }
 
